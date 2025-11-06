@@ -1,4 +1,4 @@
-# Copyright (c) 2023 Boston Dynamics AI Institute LLC. All rights reserved.
+# Copyright (c) 2023 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
 cmake_minimum_required(VERSION 3.8)
 project(bosdyn_log_status_api_msgs)
 

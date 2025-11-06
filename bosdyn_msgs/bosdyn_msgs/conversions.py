@@ -1,4 +1,4 @@
-# Copyright (c) 2023 Boston Dynamics AI Institute LLC. All rights reserved.
+# Copyright (c) 2023 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
 
 import bosdyn_api_msgs.conversions as _  # noqa
 import bosdyn_auto_return_api_msgs.conversions as _  # noqa

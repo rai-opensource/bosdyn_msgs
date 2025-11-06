@@ -1,4 +1,4 @@
-# Copyright (c) 2024 Boston Dynamics AI Institute LLC. All rights reserved.
+# Copyright (c) 2024 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
 
 macro(fetch_spot_sdk target)
   get_executable_path(PYTHON_EXECUTABLE Python3::Interpreter CONFIGURE)

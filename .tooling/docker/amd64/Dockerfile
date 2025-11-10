@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
+
 # Use a base image by OSRF that already contains ROS 2 Humble
 FROM ros:humble-ros-base-jammy
 

@@ -1,3 +1,5 @@
+<!-- Copyright (c) 2025 Robotics and AI Institute LLC dba RAI Institute. All rights reserved. -->
+
 # bosdyn_msgs
 
 ![SDK Support](https://img.shields.io/badge/SDK-3.3.2%20%7C%204.0.0%20%7C%204.0.2%20%7C%205.0.1-blue)

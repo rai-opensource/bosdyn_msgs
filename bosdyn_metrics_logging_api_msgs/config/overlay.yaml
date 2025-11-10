@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Robotics and AI Institute LLC dba RAI Institute. All rights reserved.
+
 message_mapping:
   bosdyn.api.Vec3: geometry_msgs/Vector3
   bosdyn.api.Quaternion: geometry_msgs/Quaternion

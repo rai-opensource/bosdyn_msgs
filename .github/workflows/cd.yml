@@ -15,7 +15,7 @@ concurrency:
 env:
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
-  BUNDLER_IMAGE_NAME: bdaiinstitute/bosdyn_msgs_bundler
+  BUNDLER_IMAGE_NAME: rai-opensource/bosdyn_msgs_bundler
 
 jobs:
   build-container-images:

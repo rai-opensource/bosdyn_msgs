@@ -19,7 +19,7 @@
 > What to do now:
 > - Update your git remote:
 >   ```bash
->   git remote set-url origin https://github.com/RAI-Opensource/spot_ros2
+>   git remote set-url origin https://github.com/RAI-Opensource/bosdyn_msgs
 >   ```
 > - If you maintain downstream docs/scripts, update links from this repository to the new org.
 

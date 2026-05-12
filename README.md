@@ -7,23 +7,6 @@
 ![Python Support](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)
 ![ROS Support](https://img.shields.io/badge/ROS-humble-blue)
 
-# Repository Migration Notice
-
-> [!IMPORTANT]
-> This repository has moved to the **RAI-Opensource** GitHub organization!
->
-> Current status: **Migrated**.
-> - Migration target org: https://github.com/RAI-Opensource
-> - Previous target org: https://github.com/bdaiinstitute
->
-> What to do now:
-> - Update your git remote:
->   ```bash
->   git remote set-url origin https://github.com/RAI-Opensource/bosdyn_msgs
->   ```
-> - If you maintain downstream docs/scripts, update links from this repository to the new org.
-
-
 ## Overview
 
 `bosdyn_msgs` offers an interoperability layer between Boston Dynamics Spot SDK and ROS 2 aware code by providing ROS 2 messages equivalent to [Spot SDK Protobuf messages](https://github.com/boston-dynamics/spot-sdk/tree/master/protos), as well bi-directional conversion APIs in C++ and Python.
@@ -246,3 +229,12 @@ Finally, you can now build:
 ``` bash
 colcon build
 ```
+
+## Migration Notice
+
+On April 28, 2026 this repository moved to the **RAI-Opensource** GitHub organization.  If you are still pulling from the previous bdaiinstitute GitHub organization, please update your git remote:
+   ```bash
+   git remote set-url origin https://github.com/RAI-Opensource/bosdyn_msgs
+   ```
+
+If you maintain downstream docs/scripts, update links from this repository to the new org.

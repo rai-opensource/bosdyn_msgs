@@ -246,3 +246,12 @@ Finally, you can now build:
 ``` bash
 colcon build
 ```
+
+## Migration Notice
+
+On April 28, 2026 this repository moved to the **RAI-Opensource** GitHub organization.  If you are still pulling from the previous bdaiinstitute GitHub organization, please update your git remote:
+   ```bash
+   git remote set-url origin https://github.com/RAI-Opensource/bosdyn_msgs
+   ```
+
+If you maintain downstream docs/scripts, update links from this repository to the new org.
